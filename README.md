@@ -1,2 +1,2 @@
 # namoraComigo
-Aquele pedido diferenciado pra cremosa
+Aquele pedido de namoro diferenciado pra morena
