@@ -35,7 +35,8 @@ button {
   font-size: large;
   font-family: sans-serif;
   border-radius: 15px;
-  border: 1px solid black; 
+  border: 1px solid black;
+  transition: 0.3s all;
 }
 
 .yesBtn {

@@ -5,7 +5,7 @@ const moveNot = () => {
   var randomY = Math.floor(Math.random() * (window.innerHeight - 150));
   nop.style.position = "absolute";
   nop.style.top = randomY + "px";
-  nop.style.left = randomX + "px"
+  nop.style.left = randomX + "px";
 }
 
 nop.addEventListener("mouseover", moveNot);
